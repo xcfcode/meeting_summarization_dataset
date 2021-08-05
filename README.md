@@ -7,5 +7,5 @@ This code shows how we get meeting summarization pairs from the original AMI and
   <a href="http://commpath.com/home/shake-up-sales-meeting-og/"><img src="pic/meeting.jpeg" width="600"></a>
 </p>
 
-* Refer to [AMI](https://github.com/xcfcode/meeting_dataset/tree/main/AMI_process).
+* Refer to [AMI](https://github.com/xcfcode/meeting_summarization_dataset/tree/main/AMI_process).
 * Refer to [ICSI](). `TO BE DONE`
