@@ -8,4 +8,4 @@ This code shows how we get meeting summarization pairs from the original AMI and
 </p>
 
 * Refer to [AMI](https://github.com/xcfcode/meeting_summarization_dataset/tree/main/AMI_process).
-* Refer to [ICSI](). `TO BE DONE`
+* Refer to [ICSI](https://github.com/xcfcode/meeting_summarization_dataset/tree/main/ICSI_process). 
